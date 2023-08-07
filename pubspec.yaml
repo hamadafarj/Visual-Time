@@ -1,0 +1,51 @@
+name: vtime
+description: An advanced, minimalist and powerful time management application.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+  flutter_bloc: ^7.0.1
+  logger:
+  syncfusion_flutter_charts: ^19.1.69+1
+  flutter_slidable: ^0.6.0
+  cupertino_icons: ^1.0.2
+  audioplayers: ^0.19.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  intl: ^0.17.0
+  flutter_lints: ^1.0.2
+  build_runner: ^2.0.4
+  hive_generator: ^1.1.0
+  mockito:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/i18n/en.json
+    - assets/i18n/tr.json
+    - assets/i18n/ru.json
+    - assets/i18n/ka.json
+
+    - assets/alarms/Nonimooley.mp3
+    - assets/alarms/Crystalie.mp3
+    - assets/alarms/Favour.mp3
+    - assets/alarms/Violet.mp3
+    - assets/alarms/SMS.mp3
+    - assets/alarms/Points.mp3
+    - assets/alarms/Iris.mp3
+    - assets/alarms/Crystal.mp3
+    - assets/alarms/Harmonics.mp3
+    - assets/alarms/Marigold.mp3

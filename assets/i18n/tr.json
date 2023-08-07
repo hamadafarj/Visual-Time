@@ -1,0 +1,54 @@
+{
+    "app.setup": "Uygulama kurulumunu tamamlayın",
+
+    "today": "Bugün",
+    "monday": "Pazartesi",
+    "tuesday": "Salı",
+    "wednesday": "Çarşamba",
+    "thursday": "Perşembe",
+    "friday": "Cuma",
+    "saturday": "Cumartesi",
+    "sunday": "Pazar",
+
+    "act.create": "Oluştur",
+    "act.edit": "Düzenle",
+    "act.save": " Kayıt et", 
+    "act.yes": "Evet",
+    "act.no": "Hayır",
+    "act.delete": "Sil",
+    "act.addTask": "Görev ekle",
+    "act.clearWeek": "Haftayı Temizle",
+    "clear.week.title": "Bütün haftanı temizlemek istediğinden emin misin?",
+    "act.start": "Başlat",
+    "act.stop": "Durdur",
+    "act.clearDay": "Hepsini sil",
+    "clear.day.title": "Şuanda bulunduğunuz günün görevlerini silmek istediğinizden emin misiniz?",
+
+    "prefs.settings": "Ayarlar",
+    "prefs.appearance": "Görünüm",
+    "prefs.appearance.light": "Açık",
+    "prefs.appearance.dark": "Karanlık",
+    "prefs.lang": "Dil",
+    "prefs.alarmSound": "Alarm Sesi",
+    "prefs.animations": "Animasyonlar",
+
+    "live_work.selected_task": "Seçilen Görev",
+    "live_work.removeTaskAfterCompleting": "Tamamladıktan sonra görevi kaldır",
+    "live_work.runtimeLogoutRequestError": "Görev hala devam ediyor... Sonlandırmak istediğinizden emin misiniz?",
+    "live_work.leaveItHalf": "Yarım bırak",
+
+    "error.not_found_duration": "Lütfen göreviniz için süre ekleyin",
+    "error.selected_duration_more_than_remaining": "Seçtiğiniz günün kalan süresini aşan bir süre seçtiniz",
+    "error.title_field_validation": "Başlık boş olamaz",
+
+    "task.title.hint": "Ne yapacaksın?",
+    "task.desc.hint": "Görevini anlat...",
+    "task.duration.hint": "Görev ne kadar sürecek?",
+
+    "hour": "saat",
+    "hours": "saat",
+    "minute": "dakika",
+    "minutes": "dakika",
+    "and": "ve",
+    "remaining": "Kalan süre"
+}

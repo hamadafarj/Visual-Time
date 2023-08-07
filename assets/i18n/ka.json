@@ -1,0 +1,54 @@
+{
+    "app.setup": "დაასრულეთ აპპ-ის დაყენება",
+
+    "today": "დღეს",
+    "monday": "ორშაბათი",
+    "tuesday": "სამშაბათი",
+    "wednesday": "ოთხშაბათი",
+    "thursday": "ხუთშაბათი",
+    "friday": "პარასკევი",
+    "saturday": "შაბათი",
+    "sunday": "კვირა",
+
+    "act.create": "Შექმნა",
+    "act.edit": "რედაქტირება",
+    "act.save": "დაიმახსოვრე",
+    "act.yes": "დიახ",
+    "act.no": "არა",
+    "act.delete": "წაშლა",
+    "act.addTask": "დავალების დამატება",
+    "act.clearWeek": "გაასუფთავე კვირა",
+    "clear.week.title": "დარწმუნებული ხართ, რომ გსურთ თქვენი მთელი კვირის წაშლა?",
+    "act.start": "დაწყება",
+    "act.stop": "გაუქმება",
+    "act.clearDay": "გაასუფთავე",
+    "clear.day.title": "დარწმუნებული ხართ, რომ გსურთ თქვენი მთელი დღის დავალებების წაშლა?",
+
+    "prefs.settings": "პარამეტრები",
+    "prefs.appearance": "გარეგნობა",
+    "prefs.appearance.light": "ღია",
+    "prefs.appearance.dark": "მუქი",
+    "prefs.lang": "Ენა",
+    "prefs.alarmSound": "განგაშის ხმა",
+    "prefs.animations": "ანიმაციები",
+
+    "live_work.selected_task": "ამორჩეული დავალება",
+    "live_work.removeTaskAfterCompleting": "წაშალე დავალება დამთავრების შემდეგ",
+    "live_work.runtimeLogoutRequestError": "დავალების პროცესი ჯერ კიდევ მიმდინარეობს ... დარწმუნებული ხართ, რომ გსურთ დამთავრება?",
+    "live_work.leaveItHalf": "შეაჩერე",
+
+    "error.not_found_duration": "გთხოვთ, დაამატოთ თქვენი დავალების ხანგრძლივობა",
+    "error.selected_duration_more_than_remaining": "თქვენ შეარჩიეთ ხანგრძლივობა, რომელიც აჭარბებს არჩეული დღის დანარჩენ დროს",
+    "error.title_field_validation": "სათაური არ შეიძლება იყოს ცარიელი",
+
+    "task.title.hint": "Რის გაკეთებას აპირებ?",
+    "task.desc.hint": "აღწერეთ თქვენი დავალება...",
+    "task.duration.hint": "რამდენ ხანს დაიკავებს დავალება?",
+
+    "hour": "სთ.",
+    "hours": "სთ.",
+    "minute": "წთ.",
+    "minutes": "წთ.",
+    "and": "და",
+    "remaining": "დარჩენილი დრო"
+}
